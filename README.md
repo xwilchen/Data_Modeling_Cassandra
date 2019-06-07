@@ -4,7 +4,7 @@ Sparkify, a startup, wants to analyze the data they've been collecting on songs 
 The goal of this project is to build a data model in Cassandra Keyspace using python that allow analytics team to optimize specific queries that is important to business.
 
 ## DataSet
-![Imgur Image](https://github.com/xchen715/Data_Engineering/blob/master/Data_Modeling_with_Apache_Cassandra/images/image_event_datafile_new.jpg)
+![Imgur Image](./images/image_event_datafile_new.jpg)
 
 ## Goals/Queries to Be Optimized
 ____________
